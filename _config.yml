@@ -1,7 +1,7 @@
 # Site
 title:              싸호의 블로그
 bio:                ''
-description:        ""
+description:        "우공이산(愚公移山) 우보만리(牛步萬里)"
 reading_time:       true
 words_per_minute:   200
 logo:               'assets/img/logo.png'
@@ -27,6 +27,12 @@ sass:
 
 # Comments
 disqus_shortname:   taylantatli
+# disqus는 온라인 댓글 시스템. 댓글 기능을 사용하기 위해
+# disqus를 이용할 것인지 여부와 만약 사용하면
+# disqus shortname을 입력 ( disqus username이 아님 )
+
+
+
 
 # Social
 # if you don't have any of social below, comment the line.
@@ -38,19 +44,19 @@ disqus_shortname:   taylantatli
   #ad-slot:
 #bing-verify:
 #email:
-twitter:            username
-facebook:           username
-github-url:         username
+#twitter:            username
+#facebook:           username
+github-url:         https://github.com/HoKyunMoon/HoKyunMoon.github.io.git
 #stackoverflow:     username
 #linkedin:          username
 #xing:              username
-instagram:          username
+#instagram:          username
 #lastfm:            username
 #tumblr:            username
 #medium:            '@username'
 #pinterest:         username
 #foursquare:        username
-steam:              username
+#steam:              username
 #dribbble:          username
 #youtube:           username
 #youtube-channel:   channel
