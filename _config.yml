@@ -1,7 +1,8 @@
 # Name
-name : HoKyun Moon
+name : HoKyunMoon
 
 # Site
+locale:             "ko"
 title:              싸호의 블로그
 bio:                '우공이산(愚公移山) 우보만리(牛步萬里)'
 description:        "Gitblog Tutorial"
